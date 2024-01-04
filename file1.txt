@@ -26,53 +26,15 @@ pr -h	Assigns a header to the file
 pr -n	Denotes the file with Line Numbers
 lp -nc , lpr c	Prints “c” copies of the File
  lp-d lp-P
-Specifies name of the printer
-apt-get
-Command used to install and update packages
-mail -s 'subject'
--c 'cc-address'
--b 'bcc-address'
-'to-address'
-Command to send email
-mail -s "Subject"
-to-address < Filename
-Command to send email with attachment
 
 
 
 
 
-EXPLORE MORE
 
-Learn Java Programming with Beginners Tutorial
-08:32
 
-Linux Tutorial for Beginners: Introduction to Linux Operating...
-01:35
 
-What is Integration Testing Software Testing Tutorial
-03:04
 
-What is JVM (Java Virtual Machine) with Architecture JAVA...
-02:24
-
-How to write a TEST CASE Software Testing Tutorial
-01:08
-
-Seven Testing Principles Software Testing
-05:01
-
-Linux File Permissions Commands with Examples
-13:29
-
-How to use Text tool in Photoshop CC Tutorial
-08:32
-
-What is NoSQL Database Tutorial
-02:00
-
-Important Linux Commands for Beginners Linux Tutorial
-15:03
 File Permission commands
 Command	Description	
 ls -l	to show file type and access permission
